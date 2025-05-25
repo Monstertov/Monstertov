@@ -39,6 +39,6 @@
 ---
 <!-- Stats -->
 ## Stats
-![Top Langs](https://stats.tov.monster/api/top-langs/?username=monstertov&theme=dark&langs_count=10)
-![My profile](https://stats.tov.monster/api?username=monstertov&include_all_commits=true&theme=dark)
+![Top Langs](https://stats.tov.monster/api/top-langs/?username=monstertov&theme=dark&langs_count=5)
+![My profile](https://stats.tov.monster/api?username=monstertov&include_all_commits=true&theme=dark&hide_rank=true&line_height=40&show_icons=true)
 
