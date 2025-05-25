@@ -3,8 +3,5 @@
 
 ---
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monstertov)
+![Top Langs](https://stats.tov.monster/api/top-langs/?username=monstertov&theme=radical)
 
-test my own 
-
-![Top Langs](https://github-readme-stats-monstertovs-projects.vercel.app/api/top-langs/?username=monstertov)
