@@ -3,5 +3,5 @@
 
 ---
 ## Stats
-![Top Langs](https://stats.tov.monster/api/top-langs/?username=monstertov&theme=radical&langs_count=8)
+![Top Langs](https://stats.tov.monster/api/top-langs/?username=monstertov&theme=dark&langs_count=10)
 
