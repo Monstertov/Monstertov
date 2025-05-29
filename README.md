@@ -3,7 +3,9 @@
 
 
 <p align="center">
-  <img src="img/high-nobg.gif" alt="high" />
+  <a href="https://tov.monster/" target="_blank">
+    <img src="img/high-nobg.gif" alt="high" />
+  </a>
 </p>
 
 
@@ -12,7 +14,7 @@
 <!-- Tech -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Technology+stack" alt="techstacktext" />
 <p align="center">
-  <a href="https://www.debian.org/">
+  <a href="https://www.debian.org/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Debian-A81D33?logo=debian&logoColor=white" alt="Debian" />
   </a>
   <a href="https://ubuntu.com/" target="_blank">
