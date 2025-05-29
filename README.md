@@ -82,6 +82,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=What+I'm+working+on" alt="statstext" />
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Editorial%20Contributions-4c1?logo=type&logoColor=white&logoSource=feather" alt="Editorial Contributions" />
+  <a href="https://github.com/Monstertov/Python-Quick-Colorpicker" target="_blank" rel="noopener">
+    <img src="https://custom-icon-badges.demolab.com/badge/Python%20CLI%20Color%20Picker-007ACC?logo=terminal&logoColor=white&logoSource=feather" alt="Python CLI Color Picker" />
+  </a>
 </p>
 
 ---
