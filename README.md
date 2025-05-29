@@ -1,18 +1,16 @@
 <!-- Intro -->
 # about me enz
 
-</br>
 
 <p align="center">
   <img src="img/high-nobg.gif" alt="high" />
+</p>
 
 
-
-</br>
+---
 
 <!-- Tech -->
-
-## Technology stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Technology+stack" alt="techstacktext" />
 <p align="center">
     <img src="https://custom-icon-badges.demolab.com/badge/Debian-A81D33?logo=debian&logoColor=white" alt="Debian" />
     <img src="https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -34,11 +32,22 @@
     <img src="https://custom-icon-badges.demolab.com/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
     <img src="https://custom-icon-badges.demolab.com/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
     <img src="https://custom-icon-badges.demolab.com/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" alt="Wireshark" />
+
+</p>
+
+---
+<!-- Active -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=What+I'm+working+on" alt="statstext" />
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Editorial%20Contributions-4c1?logo=type&logoColor=white&logoSource=feather" alt="Editorial Contributions" />
 </p>
 
 ---
 <!-- Stats -->
-## Stats
-![Top Langs](https://stats.tov.monster/api/top-langs/?username=monstertov&theme=dark&langs_count=5)
-![My profile](https://stats.tov.monster/api?username=monstertov&include_all_commits=true&theme=dark&hide_rank=true&line_height=40&show_icons=true)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+stats" alt="statstext" />
+
+<img src="https://stats.tov.monster/api/top-langs/?username=monstertov&langs_count=5&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000" alt="Top Langs" />
+<img src="https://stats.tov.monster/api?username=monstertov&include_all_commits=true&hide_rank=true&line_height=40&show_icons=true&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000" alt="My profile" />
+
 
