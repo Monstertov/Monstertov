@@ -23,6 +23,9 @@
   <a href="https://archlinux.org/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white" alt="Arch Linux" />
   </a>
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  </a>
   <a href="https://www.microsoft.com/en-us/windows-server" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Windows%20Server-0078D6?logo=microsoft&logoColor=white" alt="Windows Server" />
   </a>
@@ -46,6 +49,9 @@
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Bash-4EAA25?logo=gnubash&logoColor=white" alt="Bash" />
+  </a>
+  <a href="https://learn.microsoft.com/powershell/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-012456?logo=powershell&logoColor=white" alt="PowerShell" />
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Arduino-CB2C2C?logo=arduino&logoColor=white" alt="Arduino" />
@@ -76,6 +82,12 @@
   </a>
   <a href="https://www.wireshark.org/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" alt="Wireshark" />
+  </a>
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Nmap-00407A?logo=nmap&logoColor=white" alt="Nmap" />
+  </a>
+  <a href="https://www.torproject.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Tor-7E4798?logo=torproject&logoColor=white" alt="Tor" />
   </a>
 </p>
 
