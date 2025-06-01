@@ -54,7 +54,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-012456?logo=powershell&logoColor=white" alt="PowerShell" />
   </a>
   <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Arduino-CB2C2C?logo=arduino&logoColor=white" alt="Arduino" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Arduino-00969C?logo=arduino&logoColor=white" alt="Arduino" />
   </a>
   <a href="https://www.raspberrypi.com/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
