@@ -14,9 +14,9 @@
 <!-- Tech -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Technology+stack" alt="techstacktext" />
 <div align="center">
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
 <tr>
-<td align="center">
+<td align="center" style="border: none;">
 <a href="https://www.debian.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Debian-A81D33?logo=debian&logoColor=white" alt="Debian" /></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
 <a href="https://archlinux.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white" alt="Arch Linux" /></a>
