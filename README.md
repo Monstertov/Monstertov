@@ -59,6 +59,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+stats" alt="statstext" />
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://stats.tov.monster/api/top-langs/?username=monstertov&langs_count=20&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000&size_weight=0.1&count_weight=0.5&layout=compact&card_width=400" alt="Top Langs" />
+  <img src="https://stats.tov.monster/api/top-langs/?username=monstertov&langs_count=20&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000&size_weight=0.1&count_weight=0.5&layout=compact&card_width=400&hide=Cython" alt="Top Langs" />
   <img src="https://stats.tov.monster/api?username=monstertov&include_all_commits=true&hide_rank=true&line_height=33&show_icons=true&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000" alt="My profile" />
 </div>
