@@ -48,7 +48,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=What+I'm+working+on" alt="statstext" />
 <p align="center">
   <a href="https://github.com/Monstertov/msp-voice-portal" target="_blank">
-    <img src="https://stats.tov.monster/api/pin/?username=Monstertov&repo=msp-voice-portal&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000" alt="MSP Voice Portal" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monstertov&repo=msp-voice-portal&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000" alt="MSP Voice Portal" />
+  </a>
+  <a href="https://github.com/Monstertov/diskmon-mail" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monstertov&repo=diskmon-mail&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000" alt="DiskMon-Mail" />
   </a>
 </p>
 
