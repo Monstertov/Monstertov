@@ -8,6 +8,13 @@
   </a>
 </p>
 
+---
+<!-- Support -->
+<p align="center">
+  <a href="https://ko-fi.com/monstertov" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com/monstertov" />
+  </a>
+</p>
 
 ---
 
@@ -25,6 +32,7 @@
       <a href="https://www.docker.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" /></a>
       <a href="https://www.mysql.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" /></a>
       <a href="https://isocpp.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/C%2B%2B-00599C?logo=cpp&logoColor=white" alt="C++" /></a>
+      <a href="https://www.rust-lang.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust" /></a>
       <a href="https://www.python.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" /></a>
       <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/VB.NET-512BD4?logo=dotnet&logoColor=white" alt="VB.NET" /></a>
@@ -69,7 +77,5 @@
 
 <div style="display: flex; gap: 10px;">
   <img src="https://stats.tov.monster/api/top-langs/?username=monstertov&langs_count=20&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000&size_weight=0.1&count_weight=0.5&layout=compact&card_width=400&hide=Cython" alt="Top Langs" />
-  <img src="https://stats.tov.monster/api?username=monstertov&include_all_commits=true&hide_rank=true&line_height=33&show_icons=true&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000" alt="My profile" />
+  <img src="https://stats.tov.monster/api?username=monstertov&include_all_commits=true&hide_rank=true&line_height=37&show_icons=true&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000" alt="My profile" />
 </div>
-
-
