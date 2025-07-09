@@ -1,6 +1,4 @@
 <!-- Intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=About me enz." alt="techstacktext" />
-
 
 <p align="center">
   <a href="https://tov.monster/" target="_blank">
