@@ -72,17 +72,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=What+I'm+working+on" alt="statstext" />
 <p align="center">
   <a href="https://github.com/Monstertov/msp-voice-portal" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monstertov&repo=msp-voice-portal&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000" alt="MSP Voice Portal" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monstertov&repo=msp-voice-portal&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000&up?1" alt="MSP Voice Portal" />
   </a>
   <a href="https://github.com/Monstertov/diskmon-mail" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monstertov&repo=diskmon-mail&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000" alt="DiskMon-Mail" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Monstertov&repo=diskmon-mail&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000&up?1" alt="DiskMon-Mail" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Editorial%20Contributions-4c1?logo=type&logoColor=white&logoSource=feather" alt="Editorial Contributions" />
   <a href="https://github.com/Monstertov/Python-Quick-Colorpicker" target="_blank" rel="noopener">
-    <img src="https://custom-icon-badges.demolab.com/badge/Python%20CLI%20Color%20Picker-007ACC?logo=terminal&logoColor=white&logoSource=feather" alt="Python CLI Color Picker" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Python%20CLI%20Color%20Picker-007ACC?logo=terminal&logoColor=white&logoSource=feather&up?1" alt="Python CLI Color Picker" />
   </a>
   <img src="https://custom-icon-badges.demolab.com/badge/Private%20Android%20App-A4C639?logo=android&logoColor=white" alt="Private Android App" />
 </p>
@@ -92,6 +92,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+stats" alt="statstext" />
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://stats.tov.monster/api/top-langs/?username=monstertov&langs_count=20&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000&size_weight=0.1&count_weight=0.5&layout=compact&card_width=400&hide=Cython" alt="Top Langs" />
-  <img src="https://stats.tov.monster/api?username=monstertov&include_all_commits=true&hide_rank=true&line_height=37&show_icons=true&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000" alt="My profile" />
+  <img src="https://stats.tov.monster/api/top-langs/?username=monstertov&langs_count=20&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000&size_weight=0.1&count_weight=0.5&layout=compact&card_width=400&hide=Cython&up?1" alt="Top Langs" />
+  <img src="https://stats.tov.monster/api?username=monstertov&include_all_commits=true&hide_rank=true&line_height=37&show_icons=true&title_color=35b8f2&text_color=35b8f2&icon_color=007fb9&bg_color=00000000&up?1" alt="My profile" />
 </div>
