@@ -9,7 +9,7 @@
 ---
 <!-- About me -->
 <div style="color:#1bb7fa">
-  <p>Always trying to understand an learning. I dip my brain into a little bit of everything to get a better understanding of how everything works around me. System administrator by day and do whatever by night.</p>
+  <p>Always trying to understand and learning. I dip my brain into a little bit of everything to get a better understanding of how everything works around me. System administrator by day and do whatever by night.</p>
   <p><b>Favorite programming language:</b> Visual Basic because it was the first thing i used!</p>
   <p><b>Interests:</b> Spaceflight, Geopolitics, Gaming and Computer Science.</p>
 </div>
