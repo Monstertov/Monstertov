@@ -56,7 +56,8 @@
       <br><br>
       <!-- Tools -->
       <a href="https://git-scm.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?logo=git&logoColor=white" alt="Git" /></a>
-      <a href="https://www.3cx.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/3CX-0091C9?logo=phone&logoSource=feather&logoColor=white" alt="3CX" /></a>
+      <a href="https://www.3cx.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/3CX-0091C9?logo=phone&logoSource=feather&logoColor=white" alt="3CX" /></a>      
+      <a href="https://www.exim.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Exim-007ACC?logo=mail&logoSource=feather&logoColor=white" alt="Exim" /></a>
       <a href="https://www.wireshark.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" alt="Wireshark" /></a>
       <a href="https://nmap.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Nmap-00407A?logo=nmap&logoColor=white" alt="Nmap" /></a>
       <a href="https://www.torproject.org/" target="_blank"><img src="https://img.shields.io/badge/Tor-7E4798?logo=torproject&logoColor=white" alt="Tor" /></a>
