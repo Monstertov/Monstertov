@@ -86,6 +86,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Python%20CLI%20Color%20Picker-007ACC?logo=terminal&logoColor=white&logoSource=feather&up?1" alt="Python CLI Color Picker" />
   </a>
   <img src="https://custom-icon-badges.demolab.com/badge/Private%20Android%20App-A4C639?logo=android&logoColor=white" alt="Private Android App" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Band%20Managing%20Webapp-6441A5?logo=music&logoColor=white&logoSource=feather" alt="Band Managing Webapp" />
 </p>
 
 ---
