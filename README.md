@@ -81,6 +81,9 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Monstertov/msp-voice-portal" target="_blank" rel="noopener">
+    <img src="https://custom-icon-badges.demolab.com/badge/MSP%20Voice%20Portal-0071BC?logo=mic&logoColor=white&logoSource=feather" alt="MSP Voice Portal" />
+  </a>
   <a href="https://github.com/Monstertov/Python-Quick-Colorpicker" target="_blank" rel="noopener">
     <img src="https://custom-icon-badges.demolab.com/badge/Python%20CLI%20Color%20Picker-007ACC?logo=terminal&logoColor=white&logoSource=feather&up?1" alt="Python CLI Color Picker" />
   </a>
