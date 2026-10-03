@@ -3,7 +3,7 @@ name: Render theme
 on:
   push:
     branches: [main]
-    paths: [theme.py, README.template.md]
+    paths: [tools/**]
   workflow_dispatch:
 
 permissions:
@@ -14,10 +14,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-      - run: python3 theme.py
+      - run: python3 tools/theme.py
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md img/about.svg
+          git add README.md img
           git commit -m "Render theme" || exit 0
           git push
