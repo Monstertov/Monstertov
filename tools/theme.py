@@ -29,7 +29,7 @@ ABOUT = [
     ("Interests:", "Spaceflight, Geopolitics, Gaming and Computer Science."),
 ]
 
-HEADINGS = {"tech": "Technology stack", "active": "What I'm working on", "stats": "My stats"}
+HEADINGS = {"readme": "README.md", "tech": "Technology stack", "active": "What I'm working on", "stats": "My stats"}
 
 # One list per group: OS & cloud, software, tools, hardware. (name, link or None, logo, brand color). "feather:" logos come from feathericons.com, the rest from simpleicons.org.
 TECH = [
@@ -108,11 +108,11 @@ def about_svg(c, width=830, size=16, line=24, wrap=100):
                 row = f'<tspan font-weight="bold" fill="#{c["heading"]}">{escape(label)}</tspan>{escape(row[len(label):])}'
             else:
                 row = escape(row)
-            rows.append(f'  <text x="{width // 2}" y="{y}">{row}</text>')
+            rows.append(f'  <text x="0" y="{y}">{row}</text>')
             y += line
         y += line // 2
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{y - line}" font-family="{SANS}" '
-            f'font-size="{size}" text-anchor="middle" fill="#{c["text"]}">\n' + "\n".join(rows) + "\n</svg>\n")
+            f'font-size="{size}" fill="#{c["text"]}">\n' + "\n".join(rows) + "\n</svg>\n")
 
 
 def main():

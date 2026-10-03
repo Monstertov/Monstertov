@@ -7,7 +7,8 @@
 ---
 
 <!-- About me -->
-<p align="center">
+<p align="center"><img src="img/heading-readme.svg" alt="README.md" /></p>
+<p>
   <img src="img/about.svg" alt="Always trying to understand and keep learning. System administrator by day and do whatever by night. Favorite programming language: Visual Basic. Interests: Spaceflight, Geopolitics, Gaming and Computer Science." />
 </p>
 
