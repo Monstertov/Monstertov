@@ -23,40 +23,39 @@
 <!-- Tech -->
 <p align="center"><img src="img/heading-tech.svg" alt="Technology stack" /></p>
 <p align="center">
-  <a href="https://www.debian.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Debian-0071bc?style=for-the-badge&amp;logo=debian&amp;logoColor=ff788e&amp;labelColor=161b22" alt="Debian" /></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Ubuntu-0071bc?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=ff7b47&amp;labelColor=161b22" alt="Ubuntu" /></a>
-  <a href="https://archlinux.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Arch%20Linux-0071bc?style=for-the-badge&amp;logo=arch-linux&amp;logoColor=31adeb&amp;labelColor=161b22" alt="Arch Linux" /></a>
-  <a href="https://www.kali.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Kali%20Linux-0071bc?style=for-the-badge&amp;logo=kali-linux&amp;logoColor=6f96ae&amp;labelColor=161b22" alt="Kali Linux" /></a>
-  <a href="https://www.android.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Android-0071bc?style=for-the-badge&amp;logo=android&amp;logoColor=a4c639&amp;labelColor=161b22" alt="Android" /></a>
-  <br>
-  <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Windows%20Server-0071bc?style=for-the-badge&amp;logo=microsoft&amp;logoColor=279ffd&amp;labelColor=161b22" alt="Windows Server" /></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Microsoft%20Azure-0071bc?style=for-the-badge&amp;logo=msazure&amp;logoColor=27b0fd&amp;labelColor=161b22" alt="Microsoft Azure" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Docker-0071bc?style=for-the-badge&amp;logo=docker&amp;logoColor=31a3fa&amp;labelColor=161b22" alt="Docker" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-MySQL-0071bc?style=for-the-badge&amp;logo=mysql&amp;logoColor=6ba0c8&amp;labelColor=161b22" alt="MySQL" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-C%2B%2B-0071bc?style=for-the-badge&amp;logo=cpp&amp;logoColor=4ea7ea&amp;labelColor=161b22" alt="C++" /></a>
-  <br>
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Rust-0071bc?style=for-the-badge&amp;logo=rust&amp;logoColor=dea584&amp;labelColor=161b22" alt="Rust" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Python-0071bc?style=for-the-badge&amp;logo=python&amp;logoColor=5e9dd2&amp;labelColor=161b22" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-JavaScript-0071bc?style=for-the-badge&amp;logo=javascript&amp;logoColor=f7df1e&amp;labelColor=161b22" alt="JavaScript" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-VB.NET-0071bc?style=for-the-badge&amp;logo=dotnet&amp;logoColor=ac86ff&amp;labelColor=161b22" alt="VB.NET" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-PHP-0071bc?style=for-the-badge&amp;logo=php&amp;logoColor=9195ce&amp;labelColor=161b22" alt="PHP" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-.NET-0071bc?style=for-the-badge&amp;logo=dotnet&amp;logoColor=ac86ff&amp;labelColor=161b22" alt=".NET" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Bash-0071bc?style=for-the-badge&amp;logo=gnubash&amp;logoColor=4eaa25&amp;labelColor=161b22" alt="Bash" /></a>
-  <br>
-  <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-PowerShell-0071bc?style=for-the-badge&amp;logo=powershell&amp;logoColor=7699cb&amp;labelColor=161b22" alt="PowerShell" /></a>
-  <a href="https://jquery.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-jQuery-0071bc?style=for-the-badge&amp;logo=jquery&amp;logoColor=3b9de1&amp;labelColor=161b22" alt="jQuery" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-CSS-0071bc?style=for-the-badge&amp;logo=css3&amp;logoColor=49a6ea&amp;labelColor=161b22" alt="CSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-HTML-0071bc?style=for-the-badge&amp;logo=html5&amp;logoColor=ff764d&amp;labelColor=161b22" alt="HTML" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Git-0071bc?style=for-the-badge&amp;logo=git&amp;logoColor=ff7759&amp;labelColor=161b22" alt="Git" /></a>
-  <a href="https://www.3cx.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-3CX-0071bc?style=for-the-badge&amp;logo=phone&amp;logoSource=feather&amp;logoColor=1aabe3&amp;labelColor=161b22" alt="3CX" /></a>
-  <a href="https://www.exim.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Exim-0071bc?style=for-the-badge&amp;logo=mail&amp;logoSource=feather&amp;logoColor=27a1f3&amp;labelColor=161b22" alt="Exim" /></a>
-  <br>
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Wireshark-0071bc?style=for-the-badge&amp;logo=wireshark&amp;logoColor=3da0ce&amp;labelColor=161b22" alt="Wireshark" /></a>
-  <a href="https://nmap.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Nmap-0071bc?style=for-the-badge&amp;logo=nmap&amp;logoColor=5b9bd5&amp;labelColor=161b22" alt="Nmap" /></a>
-  <a href="https://www.torproject.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Tor-0071bc?style=for-the-badge&amp;logo=torproject&amp;logoColor=b27bcc&amp;labelColor=161b22" alt="Tor" /></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Arduino-0071bc?style=for-the-badge&amp;logo=arduino&amp;logoColor=1ab0b6&amp;labelColor=161b22" alt="Arduino" /></a>
-  <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Raspberry%20Pi-0071bc?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=ff75a5&amp;labelColor=161b22" alt="Raspberry Pi" /></a>
-  <a href="https://www.hpe.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-HPE-0071bc?style=for-the-badge&amp;logo=hp&amp;logoColor=0dc095&amp;labelColor=161b22" alt="HPE" /></a>
+  <a href="https://www.debian.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Debian-A81D33?logo=debian&amp;logoColor=white" alt="Debian" /></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Ubuntu-E95420?logo=ubuntu&amp;logoColor=white" alt="Ubuntu" /></a>
+  <a href="https://archlinux.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Arch%20Linux-1793D1?logo=arch-linux&amp;logoColor=white" alt="Arch Linux" /></a>
+  <a href="https://www.kali.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Kali%20Linux-557C94?logo=kali-linux&amp;logoColor=white" alt="Kali Linux" /></a>
+  <a href="https://www.android.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Android-A4C639?logo=android&amp;logoColor=white" alt="Android" /></a>
+  <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Windows%20Server-0078D6?logo=microsoft&amp;logoColor=white" alt="Windows Server" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&amp;logoColor=white" alt="Microsoft Azure" /></a>
+  <br><br>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?logo=docker&amp;logoColor=white" alt="Docker" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1?logo=mysql&amp;logoColor=white" alt="MySQL" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/C%2B%2B-00599C?logo=cpp&amp;logoColor=white" alt="C++" /></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Rust-000000?logo=rust&amp;logoColor=white" alt="Rust" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?logo=python&amp;logoColor=white" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?logo=javascript&amp;logoColor=black" alt="JavaScript" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/VB.NET-512BD4?logo=dotnet&amp;logoColor=white" alt="VB.NET" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/PHP-777BB4?logo=php&amp;logoColor=white" alt="PHP" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/.NET-512BD4?logo=dotnet&amp;logoColor=white" alt=".NET" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Bash-4EAA25?logo=gnubash&amp;logoColor=white" alt="Bash" /></a>
+  <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/PowerShell-012456?logo=powershell&amp;logoColor=white" alt="PowerShell" /></a>
+  <a href="https://jquery.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/jQuery-0769AD?logo=jquery&amp;logoColor=white" alt="jQuery" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/CSS-1572B6?logo=css3&amp;logoColor=white" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/HTML-E34F26?logo=html5&amp;logoColor=white" alt="HTML" /></a>
+  <br><br>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?logo=git&amp;logoColor=white" alt="Git" /></a>
+  <a href="https://www.3cx.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/3CX-0091C9?logo=phone&amp;logoSource=feather&amp;logoColor=white" alt="3CX" /></a>
+  <a href="https://www.exim.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Exim-007ACC?logo=mail&amp;logoSource=feather&amp;logoColor=white" alt="Exim" /></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Wireshark-1679A7?logo=wireshark&amp;logoColor=white" alt="Wireshark" /></a>
+  <a href="https://nmap.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Nmap-00407A?logo=nmap&amp;logoColor=white" alt="Nmap" /></a>
+  <a href="https://www.torproject.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Tor-7E4798?logo=torproject&amp;logoColor=white" alt="Tor" /></a>
+  <br><br>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Arduino-00969C?logo=arduino&amp;logoColor=white" alt="Arduino" /></a>
+  <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&amp;logoColor=white" alt="Raspberry Pi" /></a>
+  <a href="https://www.hpe.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/HPE-00B388?logo=hp&amp;logoColor=white" alt="HPE" /></a>
 </p>
 
 ---
@@ -68,11 +67,10 @@
   <a href="https://github.com/Monstertov/diskmon-mail" target="_blank"><img src="https://stats.tov.monster/api/pin/?username=Monstertov&repo=diskmon-mail&title_color=0071bc&text_color=ffffff&icon_color=0071bc&bg_color=00000000&disable_animations=true" alt="DiskMon-Mail" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Monstertov/msp-voice-portal" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-MSP%20Voice%20Portal-0071bc?style=for-the-badge&amp;logo=mic&amp;logoSource=feather&amp;logoColor=34a5f0&amp;labelColor=161b22" alt="MSP Voice Portal" /></a>
-  <a href="https://github.com/Monstertov/Python-Quick-Colorpicker" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Python%20CLI%20Color%20Picker-0071bc?style=for-the-badge&amp;logo=terminal&amp;logoSource=feather&amp;logoColor=27a1f3&amp;labelColor=161b22" alt="Python CLI Color Picker" /></a>
-  <br>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Private%20Android%20App-0071bc?style=for-the-badge&amp;logo=android&amp;logoColor=a4c639&amp;labelColor=161b22" alt="Private Android App" />
-  <img src="https://custom-icon-badges.demolab.com/badge/-Band%20Managing%20Webapp-0071bc?style=for-the-badge&amp;logo=music&amp;logoSource=feather&amp;logoColor=a582e6&amp;labelColor=161b22" alt="Band Managing Webapp" />
+  <a href="https://github.com/Monstertov/msp-voice-portal" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/MSP%20Voice%20Portal-0071BC?logo=mic&amp;logoSource=feather&amp;logoColor=white" alt="MSP Voice Portal" /></a>
+  <a href="https://github.com/Monstertov/Python-Quick-Colorpicker" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Python%20CLI%20Color%20Picker-007ACC?logo=terminal&amp;logoSource=feather&amp;logoColor=white" alt="Python CLI Color Picker" /></a>
+  <img src="https://custom-icon-badges.demolab.com/badge/Private%20Android%20App-A4C639?logo=android&amp;logoColor=white" alt="Private Android App" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Band%20Managing%20Webapp-6441A5?logo=music&amp;logoSource=feather&amp;logoColor=white" alt="Band Managing Webapp" />
 </p>
 
 ---
