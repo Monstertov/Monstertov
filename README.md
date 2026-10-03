@@ -70,10 +70,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0071bc&pause=1000&width=435&lines=What+I'm+working+on" alt="statstext" />
 <p align="center">
   <a href="https://github.com/Monstertov/msp-voice-portal" target="_blank">
-    <img src="https://stats.tov.monster/api/pin/?username=Monstertov&repo=msp-voice-portal&title_color=0071bc&text_color=0071bc&icon_color=0071bc&bg_color=00000000&up?1" alt="MSP Voice Portal" />
+    <img src="https://stats.tov.monster/api/pin/?username=Monstertov&repo=msp-voice-portal&title_color=0071bc&text_color=ffffff&icon_color=0071bc&bg_color=00000000&up?1" alt="MSP Voice Portal" />
   </a>
   <a href="https://github.com/Monstertov/diskmon-mail" target="_blank">
-    <img src="https://stats.tov.monster/api/pin/?username=Monstertov&repo=diskmon-mail&title_color=0071bc&text_color=0071bc&icon_color=0071bc&bg_color=00000000&up?1" alt="DiskMon-Mail" />
+    <img src="https://stats.tov.monster/api/pin/?username=Monstertov&repo=diskmon-mail&title_color=0071bc&text_color=ffffff&icon_color=0071bc&bg_color=00000000&up?1" alt="DiskMon-Mail" />
   </a>
 </p>
 
@@ -94,6 +94,6 @@
 
 <!-- Both cards render at 400x290: top-langs compact with 15 langs, stats with 6 rows at line_height=35 -->
 <p align="center">
-  <img width="49%" src="https://stats.tov.monster/api/top-langs/?username=monstertov&langs_count=20&title_color=0071bc&text_color=0071bc&icon_color=0071bc&bg_color=00000000&size_weight=0.1&count_weight=0.5&layout=compact&card_width=400&hide=Cython&up?1" alt="Top Langs" />
-  <img width="49%" src="https://stats.tov.monster/api?username=monstertov&include_all_commits=true&hide_rank=true&show=prs_merged&card_width=400&line_height=35&show_icons=true&title_color=0071bc&text_color=0071bc&icon_color=0071bc&bg_color=00000000&up?1" alt="My profile" />
+  <img width="49%" src="https://stats.tov.monster/api/top-langs/?username=monstertov&langs_count=20&title_color=0071bc&text_color=ffffff&icon_color=0071bc&bg_color=00000000&size_weight=0.1&count_weight=0.5&layout=compact&card_width=400&hide=Cython&up?1" alt="Top Langs" />
+  <img width="49%" src="https://stats.tov.monster/api?username=monstertov&include_all_commits=true&hide_rank=true&show=prs_merged&card_width=400&line_height=35&show_icons=true&title_color=0071bc&text_color=ffffff&icon_color=0071bc&bg_color=00000000&up?1" alt="My profile" />
 </p>
