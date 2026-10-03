@@ -9,7 +9,7 @@ import sys
 import textwrap
 from html import escape
 
-THEME = "blue"
+THEME = "mix"
 
 # heading: typing headings, card titles, card icons, about labels
 # text:    card text, about body text
